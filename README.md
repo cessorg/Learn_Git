@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
+- Name: Uday Pal Singh
 - Roll No.:
-- Interests: 
+- Interests: wants to explore the world of computer science
