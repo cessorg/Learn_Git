@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: Harmanjot Singh 
+- Roll No.: (85) Not alloted
+- Interests: DBMS, App Development, AI, Cloud Computing and Learning New Technologies...
