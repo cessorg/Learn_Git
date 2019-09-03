@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: ABHINAV MEHTA
+- Roll No.: 2018CSA1007
+- Interests: Web Development, Android app development , ML
