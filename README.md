@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: Drishti Gupta
+- Roll No.: 2018CSA1071
+- Interests: Software Engineering
