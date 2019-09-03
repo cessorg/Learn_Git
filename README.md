@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: Akshat Singla
+- Roll No.:2018CSA1018
+- Interests: To be a game and software developer
