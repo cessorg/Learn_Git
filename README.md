@@ -13,10 +13,9 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 2. Bonus Task: Add the resources that you find really helpful in learning Git/GitHub basics in [Git_Resources](Git_Resources.md) .
 
 ## Interested Students
-
-- Name: MUSKAN BHAGAT
-- Roll No.:2019010053576
-- Interests: AI
+- Name: Eshan Vohra
+- Roll No.:2018CSA1073
+- Interests: ML,Big Data
 
 - Name: NIRMAL DEEP KAUR
 - Roll NO.: 155
