@@ -15,11 +15,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: MUSKAN BHAGAT
-- Roll No.:2019010053576
-- Interests: AI
-
-- Name: NIRMAL DEEP KAUR
-- Roll NO.: 155
-- Intrests : Web Development, Graphics Designing .
+- Name: Harmanjot Singh
+- Roll No.:2019010053657
+- Interests: DBMS, App Development, AI, Cloud Computing, Cyber Security, XSS and prevention etc...
 
