@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: Rajanbir Kaur
+- Roll No.:301900001339
+- Interests: Web development,data science,cyber security,art and literature.
