@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: Abc xyz
+- Roll No.: 2019CSAxxxx
+- Interests: Only 1 line.
