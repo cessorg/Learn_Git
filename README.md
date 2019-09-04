@@ -15,6 +15,10 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
+- Name: JAGPREET SINGH  
+- Roll No.: didn't get  
+- Interests: use and learn about new technologies, java
+=======
 - Name: Akashdeep Singh
 - Roll No.:2018CSA1015
 - Interests: Web dev, ML, competitive programming 
@@ -46,4 +50,5 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 - Name: Nachiketa Dev Sharma  
 - Roll No.: 2018CSA1136
 - Interests: Python, Web Development
+
 
