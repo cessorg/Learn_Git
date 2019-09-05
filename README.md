@@ -47,3 +47,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 - Roll No.: 2018CSA1136
 - Interests: Python, Web Development
 
+- Name: Vansh
+- Roll No.: 2018CSA1219
+- Interests: Python, C++, Web Development
