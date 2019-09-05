@@ -47,3 +47,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 - Roll No.: 2018CSA1136
 - Interests: Python, Web Development
 
+-Name: Nilesh Mahajan
+-Roll No: 2018csa1142
+-Interests:Web development,Graphic designing
