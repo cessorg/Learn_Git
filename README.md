@@ -6,7 +6,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 1. Add you details to the next section, according to the following format:
 
 (Leave one line before starting)
-- Name: Abc xyz
+- Name: My NAME IS THIS.
 - Roll No.: 2019CSAxxxx
 - Interests: Only 1 line.
 
