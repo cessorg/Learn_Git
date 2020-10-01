@@ -50,3 +50,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 -Name: Nilesh Mahajan
 -Roll No: 2018csa1142
 -Interests:Web development,Graphic designing
+
+- Name: Vaibhav Arora 
+- Roll No.: 17031974365
+- Interests: Deep learning, Machine learning
