@@ -53,4 +53,4 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 - Name: Gareeb-coder
 - Roll No.: 17031974359
-- Interests: Game Development,Research work,Youtube,Blogging,Python,C++,C,HTML,CSS,
+- Interests: Game Development.
