@@ -50,3 +50,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 -Name: Nilesh Mahajan
 -Roll No: 2018csa1142
 -Interests:Web development,Graphic designing
+
+- Name: Gareeb-coder
+- Roll No.: 17031974359
+- Interests: Game Development.
